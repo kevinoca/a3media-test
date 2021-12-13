@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  height: 25vmin;
+  height: 30vmin;
   background-color: #0e4276;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@
   }
 }
 .grid-gallery {
-  min-height: 75vh;
+  min-height: 70vh;
   padding: 10px;
   background-color: #145ea8;
   display: grid;
